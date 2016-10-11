@@ -1,0 +1,15 @@
+c:\users\david\documents\visual studio 2013\Projects\BookingServer\Client\bin\Debug\Client.exe.config
+c:\users\david\documents\visual studio 2013\Projects\BookingServer\Client\bin\Debug\Client.exe
+c:\users\david\documents\visual studio 2013\Projects\BookingServer\Client\bin\Debug\Client.pdb
+c:\users\david\documents\visual studio 2013\Projects\BookingServer\Client\obj\Debug\Client.exe
+c:\users\david\documents\visual studio 2013\Projects\BookingServer\Client\obj\Debug\Client.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\BookingServer\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\EksamensForberedelse\TCP-ClientServer\BookingServer\Client\bin\Debug\Client.exe.config
+C:\Users\David\Desktop\EksamensForberedelse\TCP-ClientServer\BookingServer\Client\obj\Debug\Client.exe
+C:\Users\David\Desktop\EksamensForberedelse\TCP-ClientServer\BookingServer\Client\obj\Debug\Client.pdb
+C:\Users\David\Desktop\Skrivebord Prog\OldLaptop\EksamensForberedelse\TCP-ClientServer\BookingServer\Client\bin\Debug\Client.exe.config
+C:\Users\David\Desktop\Skrivebord Prog\OldLaptop\EksamensForberedelse\TCP-ClientServer\BookingServer\Client\obj\Debug\Client.exe
+C:\Users\David\Desktop\Skrivebord Prog\OldLaptop\EksamensForberedelse\TCP-ClientServer\BookingServer\Client\obj\Debug\Client.pdb
+C:\Users\David\Desktop\Skrivebord Prog\OldLaptop\EksamensForberedelse\TCP-ClientServer\BookingServer\Client\bin\Debug\Client.exe
+C:\Users\David\Desktop\Skrivebord Prog\OldLaptop\EksamensForberedelse\TCP-ClientServer\BookingServer\Client\bin\Debug\Client.pdb
+C:\Users\David\Desktop\Skrivebord Prog\OldLaptop\EksamensForberedelse\TCP-ClientServer\BookingServer\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
